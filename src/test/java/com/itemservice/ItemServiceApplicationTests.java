@@ -1,4 +1,4 @@
-package com.springmvc.p1.itemservice;
+package com.itemservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
